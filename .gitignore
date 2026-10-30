@@ -1,0 +1,8 @@
+.env
+
+vnev/
+__pycache__/
+*.pyc
+
+vector_db/
+EOF
